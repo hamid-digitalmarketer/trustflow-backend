@@ -281,6 +281,7 @@ describe('GigService', () => {
           total: 2,
           page: 1,
           limit: 20,
+          hasMore: false,
         });
       });
 
